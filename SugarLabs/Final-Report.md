@@ -8,18 +8,6 @@
 
 ---
 
-## Contributor Info
-
-### Name:
-- **Anurag Singh**
-
-### Contact:
-- **Email:** prinicipalquantum30@gmail.com
-- **GitHub Profile:** [drLite35](https://github.com/drlite35)
-- **Matrix Username:** Anurag Singh (Ovalelephant)
-
----
-
 ## Mentor Info
 
 ### Mentor:
@@ -37,16 +25,6 @@ The project aims to optimize Sugar for Raspberry Pi to engage the Maker communit
 ### GSOC Project Page
 - [Sugar On Raspberry Pi](https://summerofcode.withgoogle.com/programs/2024/projects/zeLXKHVh)
 
-### GSOC Blogs
-
-| Weekly Update |
-|---------------|
-| **[Week 1-2](https://medium.com/@principalquantum30/getting-started-with-gsoc-at-sugar-labs-c9d5db78167a)** |
-| **[Week 3-4](https://medium.com/@principalquantum30/gsoc-with-sugarlabs-coding-phase-ii-week-3-4-1db73480b68d)** |
-| **[Week 5-6](https://medium.com/@principalquantum30/gsoc-with-sugarlabs-coding-phase-iii-week-5-6-8745a19b2fd3)** |
-| **[Week 7-8](https://medium.com/@principalquantum30/gsoc-with-sugarlabs-coding-phase-iv-week-7-8-65a09e0ad623)** |
-| **[Week 9-10](#)** |
-| **[Week 11-12](#)** |
 
 ### YouTube Streams
 
@@ -57,8 +35,6 @@ The project aims to optimize Sugar for Raspberry Pi to engage the Maker communit
 ### The RPi Control Center (RPiCC)
 The RPi Control Center is a versatile application developed for Raspberry Pi on Sugar to simplify the management and monitoring of various system functions. It provides a user-friendly interface that allows users to view critical system information, including CPU usage, memory utilization, and disk space. It also features process management tools and network monitoring capabilities, along with GPIO pin management for hardware control.
 
-### [Final Work](https://github.com/drLite35/rpi_control_center)
-
 <img src="image2.png" alt="RPi Control Center">
 <img src="image3.png" alt="RPi Control Center">
 
@@ -67,21 +43,16 @@ The RPi Control Center is a versatile application developed for Raspberry Pi on 
 ### The RPi Sensors Activity
 The RPi-Sensors project integrates and manages various sensors on the Raspberry Pi, simplifying sensor-based applications. The goal is to provide a user-friendly platform for collecting data from sensors like the HC-SR04 Ultrasonic sensor and the DHT11 Temperature and Humidity sensor. The project includes detailed Python scripts for easy customization.
 
-### [Final Work](https://github.com/drLite35/RPi-Sensors)
-
 <img src="image4.png" alt="RPi Control Center">
 
 ### RPi Docs
 
 In the RPi-Docs repository, I aimed to create a comprehensive resource for Raspberry Pi users by providing detailed documentation and guides that cover various aspects of working with Raspberry Pi devices. I started by outlining the installation process, including how to set up the Raspberry Pi OS, connect peripherals, and configure the device for first-time use. Additionally, I documented the use of GPIO pins, offering step-by-step tutorials for interacting with hardware components such as sensors and displays. Each guide includes code snippets, practical examples, and troubleshooting tips to help users navigate common challenges. I also integrated best practices for using popular software applications and libraries, ensuring that both beginners and experienced developers can easily access the information they need. By consolidating essential resources in one place, I hope to empower the Maker community to effectively leverage Raspberry Pi for innovative projects and enhance their skills in hardware and software development.
 
-[Final Work](https://github.com/drLite35/RPi-Docs)
-
 ### RPi Camera
 
 In the rpi_camera_activity repository, I developed a versatile activity for Raspberry Pi that enables users to capture images and stream video using the Pi Camera. My approach began with detailed documentation on installing and configuring the Pi Camera module, ensuring that users can easily set up their hardware and software environment.
 
-[Final Work](https://github.com/44yu5h/rpi_camera_activity)
 
 <img src="image5.png" alt="RPi Control Center">
 
@@ -97,8 +68,6 @@ In the development of the Raspberry Pi OS and preinstalled activities such as Fl
 To generate a custom operating system, I outlined the necessary steps for users to follow, emphasizing the need for a "Raspberry Pi Lite OS 32-bit" installation. I detailed the process of cloning the repository on the Raspberry Pi, installing dependencies, and executing the build script. Additionally, I provided instructions for using Docker as an alternative for building the OS.
 
 Once the image is built, I explained how to flash it onto a microSD card using the rpi-imager, ensuring users set the required username and password under the advanced options. Throughout this process, I engaged in the idea phase, collaborating on development strategies and refining the setup of Sugar on top of the RPi-Lite OS. My goal was to create an accessible and functional environment that encourages exploration and creativity with the Raspberry Pi.
-
-[Final Work](https://github.com/44yu5h/sugar-rpi-os)
 
 ### Making Videos Content and Reaching Community
 
